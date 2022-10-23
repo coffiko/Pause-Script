@@ -1,4 +1,9 @@
 
+gogame script continue the game
+
+pause script for stoping game through button
+
+
 <a href="https://bio.link/coffeelink" target="_blank">
   <img src="https://img.shields.io/badge/bio%20link-%E2%86%90-green" alt="The Unlimited" width="60"/>
 </a>
