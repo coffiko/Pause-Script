@@ -1,7 +1,7 @@
 
-gogame script continue the game
+"gogame" script continue the game
 
-pause script for stoping game through button
+"pause" script for stoping game through button
 
 
 <a href="https://bio.link/coffeelink" target="_blank">
